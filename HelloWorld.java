@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 	
-		String mensaje = "Hello Git-1";
+		String mensaje = "Hello GitHub!";
 
 		 System.out.println(mensaje);
 	}
